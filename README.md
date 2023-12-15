@@ -1,4 +1,4 @@
-Tic-Tac-Toe Game with Python and Tkinter
+# Tic-Tac-Toe Game with Python and Tkinter
 
 Explore the world of GUI development with this Tic-Tac-Toe game built using Python and Tkinter. This repository features a graphical interface for an interactive two-player Tic-Tac-Toe experience. The clean and well-structured Python code ensures readability and serves as an excellent resource for beginners diving into game development and GUI programming.
 
